@@ -309,7 +309,7 @@ else {
 
 ```text
 https://github.com
-https://example.com
+https://google.com
 ```
 
 如果之前会报 `private address` / `SSRF blocked` / 内网地址，现在应恢复正常。
