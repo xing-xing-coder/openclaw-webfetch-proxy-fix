@@ -196,8 +196,6 @@ Environment=http_proxy=http://127.0.0.1:7897
 Environment=https_proxy=http://127.0.0.1:7897
 Environment=HTTP_PROXY=http://127.0.0.1:7897
 Environment=HTTPS_PROXY=http://127.0.0.1:7897
-Environment=no_proxy=127.0.0.1,localhost
-Environment=NO_PROXY=127.0.0.1,localhost
 ```
 
 如果你用的是 v2rayN，可能是：
@@ -208,8 +206,6 @@ Environment=http_proxy=http://127.0.0.1:10808
 Environment=https_proxy=http://127.0.0.1:10808
 Environment=HTTP_PROXY=http://127.0.0.1:10808
 Environment=HTTPS_PROXY=http://127.0.0.1:10808
-Environment=no_proxy=127.0.0.1,localhost
-Environment=NO_PROXY=127.0.0.1,localhost
 ```
 
 修改后执行：
